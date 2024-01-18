@@ -7,7 +7,7 @@ pip install requests beautifulsoup4
 ## Installation
 Clone the repository and navigate to the project folder:
 
-git clone https://github.com/abyx17/ethiopian-companies-scraping.git cd ethiopian-companies-scraping 
+git clone https://github.com/abyx17/ethiopian_companies_scraping.git cd ethiopian_companies_scraping 
 
 ## Usage
 Run the script with the target Wikipedia URL as an argument:
