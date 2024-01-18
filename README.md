@@ -6,7 +6,7 @@ Ensure you have the following dependencies installed:
 pip install requests beautifulsoup4 
 ## Installation
 Clone the repository and navigate to the project folder:
-git clone https://github.com/aby17x/ethiopian_companies_scraping/blob/main/Ethiopian_companies.ipynb
+git clone https://github.com/aby17x/ethiopian_companies_scraping.git
 
 ## Usage
 Run the script with the target Wikipedia URL as an argument:
