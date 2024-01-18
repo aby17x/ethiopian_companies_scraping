@@ -1,5 +1,5 @@
-## Web Scraping Project: List of Companies of Ethiopia
- # Overview
+# Web Scraping Project: List of Companies of Ethiopia
+ ## Overview
 This project involves web scraping the Wikipedia page List of companies of Ethiopia to extract information about various companies operating in Ethiopia. The script uses Python, requests, and BeautifulSoup to fetch and parse the HTML content of the page.
 Dependencies
 Ensure you have the following dependencies installed:
